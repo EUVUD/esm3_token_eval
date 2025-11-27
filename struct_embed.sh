@@ -14,4 +14,4 @@ source ~/.bashrc
 
 conda activate esm3
 
-python3 struct_tok.py
+python3 esm3_tok_eval.py
